@@ -1,0 +1,19 @@
+{
+    "entry": "B-Market.js",
+    "name": "B-Market",
+    "type": "lse-quickjs",
+    "description": "玩家之间交易的市场插件",
+    "author": "BlackCat,铭记mingji",
+    "version": "0.2.6",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        },
+        {
+            "name": "GMLIB"
+        },
+        {
+            "name": "GMLIB-LegacyRemoteCallApi"
+        }
+    ]
+}
